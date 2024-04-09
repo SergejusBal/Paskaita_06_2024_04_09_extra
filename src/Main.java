@@ -7,7 +7,12 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello and welcome!");
+        /////////////////////////////////////////////////////////////////////////
+        /////// Uzduotis studentai
+
+        System.out.println();
+        System.out.println("Uzduotis studentai");
+        System.out.println();
 
         Studentas stud1 = new Studentas("Jonas", "Jonaitis","524515421");
         Studentas stud2 = new Studentas("Petras", "Petraitis","454515421");
